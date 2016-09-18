@@ -4,8 +4,10 @@ README
 
 * Website to get latest news from everywhere
 
+**AWS SETUP
+* You would need to setup an Amazon EC2, Amazon S3, Amazon RDS and Security profiles related to them.
 
-**SETUP Requirements**
+**SETUP Requirements ON Ubuntu AWS**
 
 * http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 * http://winscp.net/eng/docs/guide_amazon_ec2
@@ -34,3 +36,6 @@ README
 * sudo ln -s /usr/lib/x86_64-linux-gnu/libz.so /usr/lib
 * sudo ln -s /usr/lib/arm-linux-gnueabihf/libjpeg.so /usr/lib
 * http://www.chrishjorth.com/blog/free-aws-ec2-ubuntu-apache-php-mysql-setup/
+ 
+**How to run:
+* Start fb.py.(Might need to upgrade credentials a bit)
